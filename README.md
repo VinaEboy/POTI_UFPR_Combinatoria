@@ -6,8 +6,9 @@ Repositório da disciplina de **Combinatória** no projeto de extensão **POTI**
 O **POTI (Polos Olímpicos de Treinamento Intensivo)** é um projeto de extensão que visa preparar estudantes para competições matemáticas (em especial, OPRM e OBMEP) e aprofundar conhecimentos em diversas áreas da matemática.
 
 ## Professores de Combinatória N3 2025
-- **Vinícius Gregorio**  
+- **Leticia Scofield**
 - **Matheus Margoti**  
+- **Vinícius Gregorio**  
 
 ## Conteúdo do Repositório
 Aqui você encontrará materiais para estudo, incluindo:  
