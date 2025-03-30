@@ -14,10 +14,10 @@ Para executar o arquivo `aula2.py`, siga estes passos:
 
 ## 3. Rodar o código  
 
-1. Abra o terminal no VS Code (`Ctrl + Shift + ´`) ou clicando nos três pontinhos na barra superior -> Terminal -> New terminal.
+1. Abra o terminal no VS Code `Ctrl + Shift + ´` ou clicando nos três pontinhos na barra superior -> Terminal -> New terminal.
 
-Confira se o terminal foi aberto no diretório que está o programa usando o comando (`pwd`). Se não tiver, tente abrir de novo ou navegue pelo terminal usando (`cd (nome da Pasta) `) para entrar em uma pasta ou (`cd ..`) para voltar para a Pasta anterior.
+Confira se o terminal foi aberto no diretório que está o programa usando o comando `pwd`. Se não tiver, tente abrir de novo ou navegue pelo terminal usando `cd (nome da Pasta) ` para entrar em uma pasta ou `cd ..` para voltar para a Pasta anterior.
 
-2. Digite o comando (`python3 aula2.py`) pressione **Enter**:  
+2. Digite o comando `python3 aula2.py` e pressione **Enter**:  
 
 Pronto! O programa será executado. 🚀
