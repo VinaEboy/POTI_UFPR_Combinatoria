@@ -17,7 +17,7 @@ python --version
 ## 3. Rodar o código  
 1. Abra o terminal no VS Code (`Ctrl + \``).  
 2. Digite o comando abaixo e pressione **Enter**:  
-python aula2.py
+python3 aula2.py
 
 
 Pronto! O programa será executado. 🚀
